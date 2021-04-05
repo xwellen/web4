@@ -1,0 +1,32 @@
+label {
+    display: flex;
+}
+
+button {
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
+.login-input {
+}
+
+
+
+.auth {
+    margin: 0 auto;
+    padding: 15px;
+    width: 25%;
+    background-color: cornflowerblue;
+}
+
+.headder {
+    background-color: cornflowerblue;
+    border : 1px solid white;
+    width : 90%;
+    margin : auto;
+    text-align: center;
+    border-radius: 10px;
+    padding : 20px 20px
+}

@@ -1,0 +1,16 @@
+.interface {
+    box-sizing: content-box;
+}
+
+label {
+    font-size: x-large;
+
+}
+
+/*.fine-settings {*/
+/*    background-color: cornflowerblue;*/
+/*}*/
+
+.settings {
+    margin: 20px;
+}

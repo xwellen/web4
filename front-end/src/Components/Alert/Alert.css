@@ -1,0 +1,16 @@
+/*#main-alert {*/
+/*    position: absolute;*/
+/*    min-width: 30%;*/
+/*}*/
+
+#Alert {
+    padding: 10px;
+    margin: 0 auto;
+    min-height: 70px;
+    min-width: 350px;
+    width: 30%;
+}
+
+.alert-message {
+    padding: 10px;
+}

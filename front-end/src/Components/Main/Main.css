@@ -1,0 +1,55 @@
+
+.header {
+    display: flex;
+    justify-content: end;
+}
+
+@media screen and (min-width: 1251px) {
+    .main {
+        display: flex;
+    }
+}
+
+.youare {
+    margin-top: 15px;
+    color: yellow;
+    text-align: center;
+}
+
+label {
+    color: black;
+}
+
+.fine-settings label, h3 {
+    color: white;
+}
+
+.p-dropdown-label {
+    margin-top: 10px;
+    font-size: large;
+}
+
+.fine-settings {
+    background-color: rgba(0,255,255,0.3);
+}
+
+.pointTable {
+    margin: 10px;
+    background-color: rgba(240,255,255,0.6);
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+.interactive-el {
+    padding: 0;
+    margin: 10px;
+}
+
+.fine-settings {
+    padding: 0;
+}
+
+table {
+    margin: 15px;
+}
